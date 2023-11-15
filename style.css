@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: coral;
+    font-size: 100px;
+    margin-top:200px;
+}
+.error{
+    margin:auto;
+    padding:10px;
+    width:50%;
+    text-align: center;
+    font-size: 30px;
+    color:chartreuse;
+}
+.message{
+    margin:auto;
+    padding:10px;
+    width:50%;
+    text-align: center;
+    color:chartreuse;
+    font-size: 20px;
+}
+.button
+{
+    width: 100px; margin: auto;  
+    background-color: chartreuse;
+    color:antiquewhite;
+    font-size: 15px;
+    border-radius: 8px;
+}
+.buttonDiv{
+    margin:auto;
+    padding:10px;
+    width:50%;
+    text-align: center;
+}
